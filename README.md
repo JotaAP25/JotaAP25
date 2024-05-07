@@ -1,4 +1,4 @@
-# 💫 Sobre me:
+# 💫 Sobre mi:
 Apasionado de .NET
 
 
